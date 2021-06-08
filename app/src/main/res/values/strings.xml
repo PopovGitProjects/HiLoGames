@@ -1,0 +1,15 @@
+<resources>
+<!--    <string name="app_name">HiLoGame</string>-->
+<!--    <string name="count">Попыток</string>-->
+<!--    <string name="result">Результат</string>-->
+<!--    <string name="button">Играть</string>-->
+<!--    <string name="guess">Угадывание</string>-->
+<!--    <string name="minNum">Нижний предел</string>-->
+<!--    <string name="maxNum">Верхний предел</string>-->
+    <string name="app_name">Guessing Game</string>
+    <string name="werewolf_guessing_game">WereWolf Guessing Game</string>
+    <string name="enter_a_number_between_1_and_100">Enter a number between 1 and 100</string>
+    <string name="textview">Enter a number,
+then click Guess!</string>
+    <string name="guessButton">Guess!</string>
+</resources>
